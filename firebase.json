@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"bmi-flutter-app","appId":"1:32682248710:android:b89e2b3fbcb2400234d187","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"bmi-flutter-app","configurations":{"android":"1:32682248710:android:b89e2b3fbcb2400234d187","ios":"1:32682248710:ios:d46b2911eea8362c34d187"}}}}}}
